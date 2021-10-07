@@ -1,2 +1,13 @@
-# flask-blueprints
-This repository will contain blueprints of some common web apps that are on the internet. Plus may have some features &amp; functionalities in it with proper structure which you can use it in your projects directly by using this repository as your template. To grab this structure of the repository click the green tab that says 'Use Template'. Save time from creating apps from the scratch. Use the structure accordingly as per your needs.
+
+# flask 
+
+This repository is a place where I learn flask web frameworks from A-Z. I will be taking time out from my everyday schedule to learn and build apps with flask. I will be following the official documentation of flask for every thing I do in this repository. 
+
+## some programs built using flask 
+
+[titanic: machine leanring program](https://github.com/anildhage/titanic)
+
+[air quality prediction](https://github.com/anildhage/Air-Quality-Data-Science)
+
+
+will update the file as I make it up to it ...
