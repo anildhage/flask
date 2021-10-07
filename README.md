@@ -1,0 +1,2 @@
+# flask-blueprints
+This repository will contain blueprints of some common web apps that are on the internet. Plus may have some features &amp; functionalities in it with proper structure which you can use it in your projects directly by using this repository as your template. To grab this structure of the repository click the green tab that says 'Use Template'. Save time from creating apps from the scratch. Use the structure accordingly as per your needs.
