@@ -1,7 +1,7 @@
 
 # flask 
 
-This repository is a place where I learn flask web frameworks from A-Z. I will be taking time out of my everyday schedule to learn and build apps with flask. I will be following the official documentation of flask for everything I do in this repository 
+Personal learning repository containing flask apps, documents, projects, notes, notes from official documentation. 
 
 ## some programs built using flask 
 
@@ -10,4 +10,4 @@ This repository is a place where I learn flask web frameworks from A-Z. I will b
 [air quality prediction](https://github.com/anildhage/Air-Quality-Data-Science)
 
 
-will update the file as I make it up to it ...
+
